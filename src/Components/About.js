@@ -12,7 +12,7 @@ const About = () => {
             Full-Stack Software Engineer and Economics Graduate.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I enjoy building applications, and relish the opprtunity to
+            I enjoy building applications, and relish the opportunity to
             collaborate with others on projects.
           </p>
           <div className="flex justify-center">
