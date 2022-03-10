@@ -13,7 +13,7 @@ const Projects = () => {
           <div className="flex justify-center items-center flex-wrap mx-4 h-16">
             <DiCode />
           </div>
-          <div className="flex flex-col w-full mb-20">
+          <div className="flex flex-col w-full mb-10">
             <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
               Apps I've Built
             </h1>

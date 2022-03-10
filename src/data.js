@@ -21,22 +21,22 @@ export const projects = [
       link: "https://coderunners.netlify.app/",
     },
     {
-      title: "Reinhabit",
-      subtitle: "JavaScript and Postgress",
+      title: "ReinHabit",
+      subtitle: "JavaScript & Postgress",
       description:
         "Habit tracking app where users can make an account and create habits for themselves to track and update with visual data.",
       image: reinhabit,
       link: "https://reinhabit.netlify.app",
     },
     {
-        title: "Epic Todo App",
+        title: "Tv Shows App",
         subtitle: "React Hooks",
         description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+          "Tv shows app, displays relevent information about the show and indiviual episodes",
         image: tvShows,
         link: "https://compassionate-agnesi-6be84b.netlify.app/",
       },
     ];
 
 
-    export const skills = [ "TypeScript", "JavaScript" , "React", "MongoDB", "SQL", "Node.js", "Python", "Flask" , "Docker", "Html/Css" ]
+export const skills = [ "TypeScript", "JavaScript" , "React", "MongoDB", "SQL", "Node.js", "Python", "Flask" , "Docker", "Html/Css" ]
