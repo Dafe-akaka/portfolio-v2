@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Navbar = () => {
   return (
@@ -16,14 +16,10 @@ const Navbar = () => {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          <a href="#testimonials" className="mr-5 hover:text-white">
-            Testimonials
-          </a>
         </nav>
-
-        </div>
+      </div>
     </header>
-  )
-}
+  );
+};
 
-export default Navbar
+export default Navbar;

@@ -6,9 +6,9 @@ import { DiCode } from "react-icons/di";
 const Projects = () => {
   return (
     <section id="projects" className="text-gray-400 bg-gray-900 body-font">
-      <IconContext.Provider
+        <IconContext.Provider
         value={{ color: "grey", className: "projectsIcon", size: "5em" }}
-      >
+        >
         <div className="container px-5 py-10 mx-auto text-center lg:px-40">
           <div className="flex justify-center items-center flex-wrap mx-4 h-16">
             <DiCode />
@@ -18,7 +18,9 @@ const Projects = () => {
               Apps I've Built
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                I’m always looking for something new to learn or a new problem to solve. I’m excited to pursue a career in technology where I can challenge myself this way and further my programming knowledge!
+              I’m always looking for something new to learn or a new problem to
+              solve. I’m excited to pursue a career in technology where I can
+              challenge myself this way and further my programming knowledge!
             </p>
           </div>
           <div className="flex flex-wrap -m-4">
