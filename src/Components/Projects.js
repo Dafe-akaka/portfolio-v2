@@ -18,9 +18,7 @@ const Projects = () => {
               Apps I've Built
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-              Explicabo facilis repellat ab cupiditate alias vero aliquid
-              obcaecati quisquam fuga dolore.
+                I’m always looking for something new to learn or a new problem to solve. I’m excited to pursue a career in technology where I can challenge myself this way and further my programming knowledge!
             </p>
           </div>
           <div className="flex flex-wrap -m-4">
