@@ -37,3 +37,6 @@ export const projects = [
         link: "https://compassionate-agnesi-6be84b.netlify.app/",
       },
     ];
+
+
+    export const skills = [ "TypeScript", "JavaScript" , "React", "MongoDB", "SQL", "Node.js", "Python", "Flask" , "Docker", "Html/Css" ]

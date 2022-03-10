@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Navbar from './Components/Navbar';
 import About from './Components/About';
-// import Skills from './Components/Skills';
+import Skills from './Components/Skills';
 import Projects from './Components/Projects';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
       <Navbar/>
       <About/>
       <Projects/>
-      {/* <Skills/> */}
+      <Skills/>
     </main>
   );
 }
